@@ -516,6 +516,7 @@ const pipeline = options => {
 
         const opacity = sel =>
             sel.attr("opacity", (d, i, nodes) => mode.get(nodes[i]) == "sankey" ? 1 : 0)
+              .attr("pointer-events", (d, i, nodes) => mode.get(nodes[i]) == "sankey" ? "auto" : "none")
 
         opacity(selection.selectAll("g.sankeyCaptions"))
         selection.on("modechange.sankeyCaptions", () => opacity(selection.selectAll("g.sankeyCaptions").transition()))

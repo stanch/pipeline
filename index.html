@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pipeline Demo</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap" rel="stylesheet">
+    <style type="text/css">
+        body {
+            font-family: 'Open Sans', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        body.dark {
+            background: black;
+        }
+        .controls {
+            text-align: center;
+            padding: 0.5em 0;
+            margin-bottom: 2em;
+            background: #eee;
+        }
+        svg {
+            display: block;
+            max-width: 100%;
+            margin: auto;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.min.js"></script>
+    <script src="offset.js"></script>
+    <script src="compute.js"></script>
+    <script src="pipeline.js"></script>
+</head>
+<body>
+    <div class="controls">
+        <select id="color-mode" onchange="render()">
+            <option value="light" selected>Light</option>
+            <option value="dark">Dark</option>
+        </select>
+        <select id="continuity" onchange="render()">
+            <option value="disconnected" selected>Disconnected</option>
+            <option value="connected">Connected</option>
+        </select>
+        <select id="dataset" onchange="render()">
+            <option value="flowing" selected>Flowing</option>
+            <option value="stagnant">Stagnant</option>
+        </select>
+    </div>
+    <svg xmlns="http://www.w3.org/2000/svg"></svg>
+    <script type="text/javascript">
+        const render = () => {
+            const dark = document.getElementById("color-mode").value === "dark"
+            const continuity = document.getElementById("continuity").value === "connected"
+            const dataset = document.getElementById("dataset").value
+            const pipe = pipeline({
+                continuity: continuity,
+                grid: {
+                    color: dark ? "#333" : "#eee",
+                    foregroundColor: dark ? "black" : "white",
+                    foregroundFade: dark ? 0.5 : 0.8
+                },
+                caption: {
+                    sankeyCaptionColor: dark ? "#aaa" : "white"
+                },
+                types: {
+                    enter: ["New"],
+                    exit: ["Fail", "Pass"],
+                    color: {
+                        "New": "#08f",
+                        "Fail": "#f80",
+                        "Pass": "#8fe240"
+                    }
+                }
+            })
+            d3.json(`data-${dataset}.json`).then(data => {
+                document.body.classList.toggle("dark", dark)
+                d3.select("svg")
+                    .datum(pipe.process(data))
+                    .call(pipe.render)
+            })
+        }
+        render()
+    </script>
+</body>
+</html>

@@ -1,0 +1,1150 @@
+{
+  "stages": [
+    {
+      "name": "Application Review"
+    },
+    {
+      "name": "Pre-screening Test"
+    },
+    {
+      "name": "Behavioral Interview"
+    },
+    {
+      "name": "Skills Interview"
+    },
+    {
+      "name": "Final Interview"
+    }
+  ],
+  "timespans": [
+    {
+      "name": "Week 1"
+    },
+    {
+      "name": "Week 2"
+    },
+    {
+      "name": "Week 3"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553600403
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553600403
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553600403
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554735087
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554735087
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554735087
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "timespans": [
+        {
+          "timespanIndex": 2,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1556393282
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405007
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405007
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405007
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405070
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405070
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405070
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554733672
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554733672
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554733672
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553703181
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553703181
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553703181
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555265643
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555265643
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555265643
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "timespans": [
+        {
+          "timespanIndex": 1,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555425186
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555425186
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "timespans": [
+        {
+          "timespanIndex": 2,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555956610
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554999480
+            },
+            {
+              "stageIndex": 1,
+              "since": 1554999482
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554999482
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554999482
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553789706
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553789706
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553789706
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555078629
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555078629
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555078629
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554378689
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554378689
+            },
+            {
+              "stageIndex": 1,
+              "since": 1555406954
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1555406954
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "timespans": [
+        {
+          "timespanIndex": 1,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555416352
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555416352
+            },
+            {
+              "stageIndex": 1,
+              "since": 1555954262
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1553717257
+            },
+            {
+              "stageIndex": 3,
+              "since": 1554989907
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 3,
+              "since": 1554989907
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": {
+            "Fail": {}
+          },
+          "stages": [
+            {
+              "stageIndex": 3,
+              "since": 1554989907
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554917890
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554917890
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554917890
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1549543079
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1549543079
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1549543079
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1547744604
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1547744604
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1547744604
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": {
+              "Fail": {}
+          },
+          "stages": [
+            {
+              "stageIndex": 3,
+              "since": 1553634538
+            },
+            {
+              "stageIndex": 4,
+              "since": 1555086734
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1552489558
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1552489558
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1552489558
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554580681
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554580681
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554580681
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "timespans": [
+        {
+          "timespanIndex": 2,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1556389539
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "timespans": [
+        {
+          "timespanIndex": 2,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1555951690
+            },
+            {
+              "stageIndex": 1,
+              "since": 1555951696
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405120
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405120
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553399162
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553399162
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1553399162
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": {
+            "Fail": {}
+          },
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1554404906
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1549542294
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1549542294
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1549542294
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1552489543
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1552489543
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1552489543
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": {
+            "New": {}
+          },
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554713655
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554713655
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 0,
+              "since": 1554713655
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405053
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405053
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 1,
+              "since": 1554405053
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "timespans": [
+        {
+          "timespanIndex": 0,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1550161743
+            }
+          ]
+        },
+        {
+          "timespanIndex": 1,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1550161743
+            }
+          ]
+        },
+        {
+          "timespanIndex": 2,
+          "enter": null,
+          "exit": null,
+          "stages": [
+            {
+              "stageIndex": 2,
+              "since": 1550161743
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
